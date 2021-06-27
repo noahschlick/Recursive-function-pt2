@@ -1,9 +1,4 @@
-//
-//  Assign2_Q2
-//  CS 3358 Data Structures and Algorithms
-//  (Section 3358-256) Spring 2021
-//
-//  Created by Noah Schlickeisen on 3/11/21.
+
 //
 //  The purpose of this program is to test 4 recursive functions
 //  that operate different task.
